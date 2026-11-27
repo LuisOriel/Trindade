@@ -181,7 +181,7 @@ export function Site() {
             })}
           </nav>
           <a
-            href="https://linktr.ee/iamluistrindade"
+            href="https://linktr.ee/luistrindade.co"
             target="_blank"
             rel="noreferrer"
             className="inline-flex h-10 shrink-0 items-center gap-2 rounded-full bg-electric-500 px-4 text-sm font-semibold text-white transition duration-300 hover:bg-electric-300 hover:shadow-[0_0_28px_rgba(22,119,255,0.22)]"
@@ -320,7 +320,7 @@ export function Site() {
                     <span className="about-connection-line" />
                     <span className="about-connection-dot about-connection-dot-end" />
                   </div>
-                  <a href="https://linktr.ee/iamluistrindade" target="_blank" rel="noreferrer" className="about-cta group mt-6 flex items-center justify-between rounded-2xl border border-border bg-navy-900/70 p-5 transition duration-500 hover:-translate-y-1 hover:border-electric-500/70 hover:bg-navy-900">
+                  <a href="https://linktr.ee/luistrindade.co" target="_blank" rel="noreferrer" className="about-cta group mt-6 flex items-center justify-between rounded-2xl border border-border bg-navy-900/70 p-5 transition duration-500 hover:-translate-y-1 hover:border-electric-500/70 hover:bg-navy-900">
                     <span>
                       <span className="block text-xs font-bold uppercase tracking-[0.16em] text-electric-300">Próximo passo</span>
                       <span className="mt-2 block text-base font-semibold text-surface">Vamos conversar sobre o seu processo.</span>
@@ -338,7 +338,7 @@ export function Site() {
 
       <section id="contato" className="mx-auto max-w-7xl scroll-mt-24 px-6 py-24 lg:px-8 lg:py-32" aria-labelledby="contato-title">
         <div className="reveal reveal-up rounded-[2rem] border border-border bg-navy-900 p-8 sm:p-12 lg:p-16">
-          <div className="grid gap-12 lg:grid-cols-[.9fr_1.1fr] lg:items-end"><div><p className="text-xs font-bold uppercase tracking-[0.2em] text-electric-300">Contato</p><h2 id="contato-title" className="mt-4 font-display text-4xl font-extrabold tracking-[-0.04em] sm:text-5xl">Tem um processo que poderia ser melhor?</h2><p className="mt-5 max-w-lg text-muted leading-7">Conte brevemente sobre sua necessidade. Vamos entender o problema e avaliar se uma solução digital pode ajudar.</p></div><div className="space-y-4"><a href="https://linktr.ee/iamluistrindade" target="_blank" rel="noreferrer" className="reveal reveal-right flex items-center justify-between rounded-2xl border border-electric-500/40 bg-electric-500/10 p-5 transition duration-300 hover:-translate-y-0.5 hover:border-electric-500 hover:bg-electric-500/15 hover:shadow-[0_12px_40px_rgba(22,119,255,0.12)]"><span><span className="block text-xs text-electric-300">Contato</span><span className="mt-1 block font-semibold">Entre em contato conosco</span></span><ArrowUpRight className="text-electric-300" size={20} /></a><a href="mailto:luisoriel.trindade@hotmail.com" className="reveal reveal-right flex items-center justify-between rounded-2xl border border-border bg-navy-950 p-5 transition duration-300 hover:-translate-y-0.5 hover:border-electric-500 hover:shadow-[0_12px_40px_rgba(22,119,255,0.08)]" style={{ "--reveal-delay": "80ms" } as CSSProperties}><span><span className="block text-xs text-muted">E-mail direto</span><span className="mt-1 block font-semibold">luisoriel.trindade@hotmail.com</span></span><Mail className="text-electric-300" size={20} /></a></div></div>
+          <div className="grid gap-12 lg:grid-cols-[.9fr_1.1fr] lg:items-end"><div><p className="text-xs font-bold uppercase tracking-[0.2em] text-electric-300">Contato</p><h2 id="contato-title" className="mt-4 font-display text-4xl font-extrabold tracking-[-0.04em] sm:text-5xl">Tem um processo que poderia ser melhor?</h2><p className="mt-5 max-w-lg text-muted leading-7">Conte brevemente sobre sua necessidade. Vamos entender o problema e avaliar se uma solução digital pode ajudar.</p></div><div className="space-y-4"><a href="https://linktr.ee/luistrindade.co" target="_blank" rel="noreferrer" className="reveal reveal-right flex items-center justify-between rounded-2xl border border-electric-500/40 bg-electric-500/10 p-5 transition duration-300 hover:-translate-y-0.5 hover:border-electric-500 hover:bg-electric-500/15 hover:shadow-[0_12px_40px_rgba(22,119,255,0.12)]"><span><span className="block text-xs text-electric-300">Contato</span><span className="mt-1 block font-semibold">Entre em contato conosco</span></span><ArrowUpRight className="text-electric-300" size={20} /></a><a href="mailto:luisoriel.trindade@hotmail.com" className="reveal reveal-right flex items-center justify-between rounded-2xl border border-border bg-navy-950 p-5 transition duration-300 hover:-translate-y-0.5 hover:border-electric-500 hover:shadow-[0_12px_40px_rgba(22,119,255,0.08)]" style={{ "--reveal-delay": "80ms" } as CSSProperties}><span><span className="block text-xs text-muted">E-mail direto</span><span className="mt-1 block font-semibold">luisoriel.trindade@hotmail.com</span></span><Mail className="text-electric-300" size={20} /></a></div></div>
         </div>
       </section>
 
