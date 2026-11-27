@@ -342,7 +342,7 @@ export function Site() {
         </div>
       </section>
 
-      <footer className="border-t border-border/70"><div className="mx-auto flex max-w-7xl flex-col gap-5 px-6 py-8 text-sm text-muted sm:flex-row sm:items-center sm:justify-between lg:px-8"><Logo /><span>© 2026 Luís Trindade. Todos os direitos reservados.</span></div></footer>
+      <footer className="border-t border-border/70"><div className="mx-auto flex max-w-7xl flex-col gap-5 px-6 py-8 text-sm text-muted sm:flex-row sm:items-center sm:justify-between lg:px-8"><Logo /><span>© 2026 Luís Trindade. Todos os direitos reservados. <a href="/prospects-privado.html" className="transition hover:text-electric-300">Área do proprietário</a></span></div></footer>
     </main>
   );
 }
